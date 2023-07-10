@@ -1,7 +1,7 @@
 intro="Welcome to the Group G pub quiz"
 print(intro.center(60,"*"))
 name=input("\nInput your name here:")
-print("Welcome to the Millionaire Game" ,name)
+print("Welcome to the PubG quiz" ,name)
 
 ques = ("\nQ1. Which character is used in Python to make a single line comment? \nA./ \nB.// \nC.Hash \nD.!", 
         "\nQ2. What is the Capital of INDIA? \nA. Mumbai \nB.Goa \nC.New Delhi \nD.Chennai",
