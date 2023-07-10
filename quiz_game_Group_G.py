@@ -3,7 +3,7 @@ print(intro.center(60,"*"))
 name=input("\nInput your name here:")
 print("Welcome to the PubG quiz" ,name)
 
-ques = ("\nQ1. Which character is used in Python to make a single line comment? \nA./ \nB.// \nC.Hash \nD.!", 
+ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Wine \nD.Delta", 
         "\nQ2. What is the Capital of INDIA? \nA. Mumbai \nB.Goa \nC.New Delhi \nD.Chennai",
         "\nQ3. What is the Mother Tongue of Maharashtra State? \nA.Marathi \nB.Telugu \nC.Gujrati \nD.Bengoli", 
         "\nQ4. Most IPL trophies Won by which team? \nA.MumbaiIndians \nB.RoyalChallengerBanglore \nC.ChennaiSuperKings \nD.KolkattaKnightRiders", 
