@@ -9,7 +9,7 @@ ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Win
         "\nQ4. What is a baby kangaroo called? \nA.Fawn \nB.Joey \nC.Cria \nD.Hatchling", 
         "\nQ5. What is the fear of small spaces called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
 
-ans = (("C" or "c"), ("C" or "c"), ("A" or "a"), ("A" or"a"),("D" or "d"))
+ans = (("A" or "a"), ("C" or "c"), ("B" or "b"), ("B" or"b"),("B" or "b"))
 prize=(100,200,300,400,500)
 startingAmount=0
 
@@ -32,4 +32,5 @@ print("\n\nTotal Amount Won by",name,"is £",startingAmount)
 #   prize=2000
 # elif (i==3):
 #   prize=3000
-print(".....Thank You !! For Prticipating in group G pub quiz.....") 
+print(".....Thank You !! For Participating in group G pub quiz.....")
+
