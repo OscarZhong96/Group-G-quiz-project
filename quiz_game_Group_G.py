@@ -1,7 +1,10 @@
 intro="Welcome to the Group G pub quiz"
 print(intro.center(60,"*"))
+name_file=open('myfile.txt','a')
 name=input("\nInput your name here:")
-print("Welcome to the PubG quiz" ,name)
+name_file.write(name)
+name_file.close()
+print("Welcome to the Group G pub quiz" ,name)
 #questions from Oscar 1-10
 ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Wine \nD.Delta", 
         "\nQ2. What type of food is gorganzola? \nA. Fruit \nB.Herb \nC.Cheese \nD.Herb",
