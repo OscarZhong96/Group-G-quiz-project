@@ -7,7 +7,12 @@ ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Win
         "\nQ2. What type of food is gorganzola? \nA. Fruit \nB.Herb \nC.Cheese \nD.Herb",
         "\nQ3. What did Amber Heard leave on Jonny Depps pillow? \nA.Food \nB.Faecal matter \nC.Face cream \nD.Forks", 
         "\nQ4. What is a baby kangaroo called? \nA.Fawn \nB.Joey \nC.Cria \nD.Hatchling", 
-        "\nQ5. What is the fear of small spaces called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
+        "\nQ5. What is the fear of small spaces called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia",
+        "\nQ6. Who is the tenth Doctor Who? \nA.Tennant/ \nB.Eccleston/ \nC.Whittaker \nD.Capaldi", 
+        "\nQ7. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
+        "\nQ8. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch", 
+        "\nQ9. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone", 
+        "\nQ10. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
 
 ans = (("A" or "a"), ("C" or "c"), ("B" or "b"), ("B" or"b"),("B" or "b"))
 prize=(100,200,300,400,500)
