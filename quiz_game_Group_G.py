@@ -12,7 +12,22 @@ ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Win
         "\nQ7. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
         "\nQ8. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch", 
         "\nQ9. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone", 
-        "\nQ10. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
+        "\nQ10. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia"
+        "\nQ11. Who is the tenth Doctor Who? \nA.Tennant/ \nB.Eccleston/ \nC.Whittaker \nD.Capaldi", 
+        "\nQ12. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
+        "\nQ13. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch", 
+        "\nQ14. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone", 
+        "\nQ15. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia" 
+        "\nQ16. Who is the tenth Doctor Who? \nA.Tennant/ \nB.Eccleston/ \nC.Whittaker \nD.Capaldi", 
+        "\nQ17. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
+        "\nQ18. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch", 
+        "\nQ19. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone", 
+        "\nQ20. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia"
+        "\nQ21. Who is the tenth Doctor Who? \nA.Tennant/ \nB.Eccleston/ \nC.Whittaker \nD.Capaldi", 
+        "\nQ22. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
+        "\nQ23. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch", 
+        "\nQ24. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone", 
+        "\nQ25. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
 
 ans = (("A" or "a"), ("C" or "c"), ("B" or "b"), ("B" or"b"),("B" or "b"))
 prize=(100,200,300,400,500)
