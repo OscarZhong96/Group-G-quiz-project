@@ -4,10 +4,10 @@ name=input("\nInput your name here:")
 print("Welcome to the PubG quiz" ,name)
 
 ques = ("\nQ1. In which river runs through Paris? \nA.Seine/ \nB.Mersey/ \nC.Wine \nD.Delta", 
-        "\nQ2. What is the Capital of INDIA? \nA. Mumbai \nB.Goa \nC.New Delhi \nD.Chennai",
-        "\nQ3. What is the Mother Tongue of Maharashtra State? \nA.Marathi \nB.Telugu \nC.Gujrati \nD.Bengoli", 
-        "\nQ4. Most IPL trophies Won by which team? \nA.MumbaiIndians \nB.RoyalChallengerBanglore \nC.ChennaiSuperKings \nD.KolkattaKnightRiders", 
-        "\nQ5. Current Most popular programming language in the world? \nA.Java \nB.C++ \nC.JavaScript \nD.Python")
+        "\nQ2. What type of food is gorganzola? \nA. Fruit \nB.Herb \nC.Cheese \nD.Herb",
+        "\nQ3. What did Amber Heard leave on Jonny Depps pillow? \nA.Food \nB.Faecal matter \nC.Face cream \nD.Forks", 
+        "\nQ4. What is a baby kangaroo called? \nA.Fawn \nB.Joey \nC.Cria \nD.Hatchling", 
+        "\nQ5. What is the fear of small spaces called? \nA.Acrophobia \nB.Claustrophobia \nC. \nD.Cibophobia")
 
 ans = (("C" or "c"), ("C" or "c"), ("A" or "a"), ("A" or"a"),("D" or "d"))
 prize=(100,200,300,400,500)
