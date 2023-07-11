@@ -32,4 +32,4 @@ print("\n\nTotal Amount Won by",name,"is £",startingAmount)
 #   prize=2000
 # elif (i==3):
 #   prize=3000
-print(".....Thank You !! For Prticipating in Millionaire Game.....") 
+print(".....Thank You !! For Prticipating in group G pub quiz.....") 
