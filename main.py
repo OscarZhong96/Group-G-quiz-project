@@ -78,10 +78,7 @@ while True:
     total_points += points 
 
     print("\n\nTotal Amount of points by", name, "is", total_points)
-# if(i==2):
-#   prize=2000
-# elif (i==3):
-#   prize=3000
+
 print(".....Thank You !! For Participating in group G pub quiz.....")
 
 
