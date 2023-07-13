@@ -133,6 +133,8 @@ while True:
     print("\nWELL DONE! You have achieved the rank of ", Achievement[0])
   else:
     print("\nUNLUCKY! You have unlocked being a NOOB.")
+#The code above checks the value of the total points against specific score ranges using comparison operators and it assigns an achievement to the player
+based on which score range they fall into. 
 
   High_score = open('high score.txt', 'a')
   High_score.write("\n"
