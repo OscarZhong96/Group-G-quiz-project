@@ -16,7 +16,7 @@ def new_game():
   return name
 
 def play_again():
-  response = input("Would you like to play again? (Y) or (N):")
+  response = input("Would you like to play again? (Y) or (N):") [Charlie] implemented a system where the loop ends and the player can choose to attempt the quiz again. 
   response = response.upper()
   if response == "Y":
     return True
@@ -24,7 +24,7 @@ def play_again():
     return False
 
 
-#========================================= questions from Oscar 1-10 =====================================================-
+#========================================= questions from Oscar 1-10 =====================================================
 ques = (
   "\nQ1. In which river runs through Paris? \nA.Seine \nB.Mersey \nC.Wine \nD.Delta",
   "\nQ2. What type of food is gorganzola? \nA. Fruit \nB.Herb \nC.Cheese \nD.Herb",
@@ -86,7 +86,7 @@ ans = (
   ("A"),
   ("D"),
 )
-prize = [100] * len(ques)
+prize = [100] * len(ques) [Charlie] - implemented a working points scoring system that rewards the player with +100 points per question asnwered correctly along with a final score for the player at the end of each attempt at the quiz
 
 while True:
   total_points = 0
