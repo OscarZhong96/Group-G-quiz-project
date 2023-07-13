@@ -1,14 +1,15 @@
-from timeit import default_timer as timer
-
+from timeit import default_timer as timer 
+## so the first line of code imports default timer from timeit module
 
 def new_game():
   intro = "Welcome to the Group G pub quiz"
   print(intro.center(60, "*"))
   name = input("\nInput your name here:")
+## Defines a function called new_game() then it prints the variable intro in the centre with * on either side
+
   print("Welcome to the Group G pub quiz", name,
         "\nYou will have 30s for each question")
   return name
-
 
 def play_again():
   response = input("Would you like to play again? (Y) or (N):")
@@ -91,6 +92,7 @@ while True:
   for i in range(len(ques)):
     print(ques[i])
     start = timer()
+##Starts the defualt timer from the timeit module 
 
     Ans = input("Select your Answer OR to Quit press 'Q': ")
     if Ans == "Q":
@@ -102,10 +104,13 @@ while True:
       if timedifference <= 30:
         print("Correct! You have gained points of £.", prize[i], "you took:",
               round(timedifference, 2), "s")
+##so the if statement prints out the time difference to two decimal places showing the amount of time taken in seconds when time taken is less than or equal to 30
+
         points += prize[i]
       else:
         print("You took", round(timedifference, 2), "s",
               "This answer shall not be counted")
+     ## else statement activates when the conditional of the if statement does not occur so in this case when it is over 30 seconds
     else:
       print("The answer is incorrect")
 
