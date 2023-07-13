@@ -1,3 +1,7 @@
+## Worked on by Oscar, Charlie, Ashir and Abdullah
+Replit link https://replit.com/@OscarZhong1/Quiz#main.py
+## couldnt change the name from main to quiz_game.py without replit breaking
+
 from timeit import default_timer as timer 
 ## so the first line of code imports default timer from timeit module
 
