@@ -19,18 +19,21 @@ def play_again():
     return False
 
 
-#========================================= questions from Oscar 1-10 =====================================================-
+#========================================= questions from Oscar 1-5 =====================================================-
 ques = (
   "\nQ1. In which river runs through Paris? \nA.Seine \nB.Mersey \nC.Wine \nD.Delta",
   "\nQ2. What type of food is gorganzola? \nA. Fruit \nB.Herb \nC.Cheese \nD.Herb",
   "\nQ3. What did Amber Heard leave on Jonny Depps pillow? \nA.Food \nB.Faecal matter \nC.Face cream \nD.Forks",
   "\nQ4. What is a baby kangaroo called? \nA.Fawn \nB.Joey \nC.Cria \nD.Hatchling",
   "\nQ5. What is the fear of small spaces called? \nA.Acrophobia \nB.Claustrophobia \nC.Hydrophobia \nD.Cibophobia",
-  "\nQ6. Who is the tenth Doctor Who? \nA.Tennant \nB.Eccleston \nC.Whittaker \nD.Capaldi",
-  "\nQ7. What is the name of the main antagonist in the Shakespeare play Othello?? \nA. Lady McBeth \nB.Lago \nC.Cymbeline \nD.Claudius",
-  "\nQ8. Which popular video game franchise has released games with the subtitles World At War and Black Ops? \nA.Call of Duty \nB.Battlefield \nC.Genshin impact \nD.Overwatch",
-  "\nQ9. What is currency of Denmark called? \nA.Euro \nB.Pound \nC.Dollar \nD.Krone",
-  "\nQ10. What is the fear of food called? \nA.Acrophobia \nB.Claustrophobia \nC.Hydrophobia \nD.Cibophobia",
+  
+#========================================= questions from Rosemary 6-10 =====================================================-
+
+  "\nQ6. Who wrote Pride and Prejudice? \nA.Jane Austen \nB.Charles Dickens \nC. Stephen  King \nD.Harper Lee",
+  "\nQ7. Who directed Inception?? \nA. Christopher Nolan \nB.Steven Spielberg \nC.Alfred Hitchcock \nD.Quentin Tarantino",
+  "\nQ8. What is the square root of 81 \nA.8 \nB.9 \nC.10 \nD.11",
+  "\nQ9. What is the largest planet in the solar system called? \nA.Earth \nB.Mars \nC.Jupiter \nD.Mercury",
+  "\nQ10. What does the acronym HTML stand for? \nA.HyperText Markup Language. \nB.HydroToning Maxim Language \nC.HackerText Mouse Language \nD.HiddenTiming Meaning Language",
 
   #========================================= Questions from Charlie 11-15 =================================================
   "\nQ11. What is the name of the 6th harry potter book and movie? Harry potter and...? \nA.The Goblet of fire \nB.The Order of the phoenix \nC.The half blood prince \nD.Deathly hallows",
@@ -61,10 +64,10 @@ ans = (
   ("B"),
   ("B"),
   ("A"),
-  ("B"),
   ("A"),
-  ("D"),
-  ("D"),
+  ("B"),
+  ("C"),
+  ("A"),
   ("A"),
   ("C"),
   ("B"),
