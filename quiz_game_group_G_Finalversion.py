@@ -103,7 +103,7 @@ while True:
       end = timer()
       timedifference = end - start
       if timedifference <= 30:
-        print("Correct! You have gained points of £.", prize[i], "you took:",
+        print("Correct! You have gained points :", prize[i], "you took:",
               round(timedifference, 2), "s")
         points += prize[i]
       else:
